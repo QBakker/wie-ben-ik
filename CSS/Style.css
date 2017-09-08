@@ -7,22 +7,16 @@ body	{
 		text-align: center;
 		}
 
-nav a {
+nav a 	{
 		color: Navy;
 		margin-right: 10px;
 		border: 5px double;
 		padding: 10px;
-}
-
-a {
-		color: purple;
-		margin-right: 10px;
-		border: 5px double;
-		padding: 10px;
-}
+		}
 
 a:hover {
-		color: red;
+		color: blue;
+		background-color: grey;
 }
 
 h1 		{
